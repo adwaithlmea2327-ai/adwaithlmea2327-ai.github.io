@@ -2,9 +2,9 @@
 title: "Adwaith Lal"
 ---
 
-# 👋 Hi, I'm **Adwaith Lal**
+# 👋 Hi, I'm Adwaith Lal
 
-Aspiring Mechanical Engineer passionate about design, manufacturing, and practical engineering applications.
+Aspiring Mechanical Engineering student passionate about design, manufacturing, and practical engineering applications.
 
 ---
 
@@ -12,7 +12,7 @@ Aspiring Mechanical Engineer passionate about design, manufacturing, and practic
 
 - **Address:** Sivashylam House, Kuzhimattom P.O, Kottayam, Kerala, India  
 - **Contact:** 9497558685  
-- **Email:** [adwaithla18@gmail.com](mailto:adwaithla18@gmail.com)  
+- **Email:** [adwaithlal8@gmail.com](mailto:adwaithlal8@gmail.com)  
 - **Nationality:** Indian  
 - **Date of Birth:** 22/08/2005  
 
@@ -22,17 +22,21 @@ Aspiring Mechanical Engineer passionate about design, manufacturing, and practic
 
 ### **B.Tech in Mechanical Engineering (Pursuing)**  
 **Saintgits College of Engineering**, Kottayam, Kerala  
-**Duration:** 2023 – 2027
+**Duration:** 2023 – 2027  
+
+---
 
 ### **Higher Secondary Education (Plus Two)**  
 **Holy Family HSS**, Kottayam, Kerala  
-**Board:** Board of Public Examination, Kerala  
-**Score:** 87%
+**Board:** Board of Public Examination Kerala  
+**Score:** 87%  
 
-### **SSLC (10th)**  
-**Clemis School**, Chingavanam, Kottayam, Kerala  
+---
+
+### **SSLC (10th Standard)**  
+**Clemis School**, Chingavanam, Kottayam  
 **Board:** CBSE  
-**Score:** 92%
+**Score:** 92%  
 
 ---
 
@@ -45,10 +49,10 @@ Aspiring Mechanical Engineer passionate about design, manufacturing, and practic
 
 ---
 
-## 📂 Projects
+## 📂 Project
 
-### 🩸 **Cannular Bleeding Alert System**
-A safety-based project focusing on alert mechanisms for medical cannulas.
+### 🩸 Cannular Bleeding Alert System  
+A concept-based safety project designed to detect bleeding through medical cannulas and alert the user.
 
 ---
 
@@ -56,4 +60,3 @@ A safety-based project focusing on alert mechanisms for medical cannulas.
 
 If you'd like to collaborate or discuss opportunities, feel free to reach out!
 
----
